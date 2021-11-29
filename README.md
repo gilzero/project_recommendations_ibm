@@ -20,3 +20,6 @@ V. Matrix Factorization
 
 VI. Extras & Concluding
 
+### Known Issues
+There are some function order sequence related issues that might require re-order positions of functions
+in order to run sequentially in a notebook. 
